@@ -30,9 +30,14 @@ The aim is to implement various reinforcement learning algorithms using increasi
 | Name | Role | Email | GitHub |
 |------|------|-------|--------|
 | Jasper Robbins | Project Lead | jasper.robbins@sjsu.edu | [@jrobbinsss18](https://github.com/jrobbinsss18) |
-| [Member Name 2] | [Role] | [email@university.edu] | [@github-username](https://github.com/username) |
-| [Member Name 3] | [Role] | [email@university.edu] | [@github-username](https://github.com/username) |
-| [Member Name 4] | [Role] | [email@university.edu] | [@github-username](https://github.com/username) |
+| Andrew Chen | Member | andrew.b.chen@sjsu.edu | [@andche742](https://github.com/andche742) |
+| Naing Htet | Member | naing.htet@sjsu.edu | [@Codingjackking](https://github.com/Codingjackking) |
+| Tunir Bhattacharya | Member | tunir.bhattacharya@sjsu.edu | [@Trid-T10-eN](https://github.com/Trid-T10-eN) |
+| Patrick Luong | Member | patrick.luong@sjsu.edu | [@skarrf](https://github.com/skarrf) |
+| Paco Xiao | Member | paco.xiao@sjsu.edu | [@pacoxiao1](https://github.com/pacoxiao1) |
+| Gabriel Clarence  | Member | gabriel.clarence@sjsu.edu  | [@gclarence011 ](https://github.com/gclarence011) |
+| Dhareshwar sowmya rao | Member | dhareshwarsowmya.rao@sjsu.edu | [@dhareshwarsowmya](https://github.com/dhareshwarsowmya) |
+| Eugenio Pasos | Member | eugenio.pasos@sjsu.edu | [@eugeniopasos](https://github.com/eugeniopasos) |
 
 ## Project Kanban Board
 
