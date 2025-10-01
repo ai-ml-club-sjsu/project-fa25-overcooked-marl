@@ -31,8 +31,8 @@ The aim is to implement various reinforcement learning algorithms using increasi
 |------|------|-------|--------|
 | Jasper Robbins | Project Lead | jasper.robbins@sjsu.edu | [@jrobbinsss18](https://github.com/jrobbinsss18) |
 | Andrew Chen | Member | andrew.b.chen@sjsu.edu | [@andche742](https://github.com/andche742) |
-| Naing Htet | Member | naing.htet@sjsu.edu | [@Codingjackking](https://github.com/Codingjackking) |
-| Tunir Bhattacharya | Member | tunir.bhattacharya@sjsu.edu | [@Trid-T10-eN](https://github.com/Trid-T10-eN) |
+| Naing Htet | Member | naing.htet@sjsu.edu | [@codingjackking](https://github.com/Codingjackking) |
+| Tunir Bhattacharya | Member | tunir.bhattacharya@sjsu.edu | [@trid-t10-en](https://github.com/Trid-T10-eN) |
 | Patrick Luong | Member | patrick.luong@sjsu.edu | [@skarrf](https://github.com/skarrf) |
 | Paco Xiao | Member | paco.xiao@sjsu.edu | [@pacoxiao1](https://github.com/pacoxiao1) |
 | Gabriel Clarence  | Member | gabriel.clarence@sjsu.edu  | [@gclarence011 ](https://github.com/gclarence011) |
