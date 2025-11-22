@@ -1,6 +1,6 @@
 {
-  "project_name": "Multi Agent Reinforcement Learning - Overcooked",
-  "purpose": "Use Overcooked as a tool of understanding Multi Agent Reinforcement Learning",
-  "short_description": "Our project explores multi-agent reinforcement learning (MARL) through the cooperative cooking game Overcooked. We aim to solve the challenge of coordinating multiple agents in dynamic, high-pressure environments where teamwork is essential. Using state-of-the-art algorithms—PPO, RainbowDQN, and DuelingDQN—we train and compare agents in both the Overcooked Berkeley research environment and the actual game. Our target audience includes students, researchers, and enthusiasts interested in artificial intelligence, game theory, and human-AI collaboration. The expected outcomes are practical insights into MARL performance, interactive demos, and a deeper understanding of how AI agents can learn cooperation in complex real-world-inspired tasks.",
+  "project_name": "Multi Agent Reinforcement Learning - Google Football",
+  "purpose": "Use Google Football (FIFA) as a tool of understanding Multi Agent Reinforcement Learning",
+  "short_description": "Our project explores multi-agent reinforcement learning (MARL) through the Google Football FIFA environment. We aim to solve the challenge of coordinating multiple agents in dynamic, high-pressure environments where teamwork is essential. Using PPO as a baseline, and extending the work to similar and/or theoretical algorithms like PPG to understand why algorithms work better or worse in different environments.",
   "semester": "fa25"
 }
