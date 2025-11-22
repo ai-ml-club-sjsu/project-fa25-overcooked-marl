@@ -1,16 +1,15 @@
-# AI/ML Club - Multi Agent Reinforcement Learning - Overcooked
+# AI/ML Club - Multi Agent Reinforcement Learning - Google Football (FIFA)
 
 **Academic Year:** 2025-2026 Fall Semester  
 **Project Duration:** September 2025 - December 2025
 
 ## Project Description
 
-The aim is to implement various reinforcement learning algorithms using increasingly more complex environments to gain insights and experiences on the unique problems that multi agent reinforcement learning offers. We are using the Berkeley overcooked environment first, as it was designed for AI, once all algorithms work, pivot and implement all in the actual game.
+The aim is to implement various reinforcement learning algorithms using increasingly more complex environments to gain insights and experiences on the unique problems that multi agent reinforcement learning offers. We are using the Google Football FIFA environment.
 
 **Key Objectives:**
-- Build unique working agents using PPO, RainbowDQN, and DuelingDQN within the Berkeley Overcooked environment
+- Build unique working agents using PPO and PPG using a FIFA esk environment.
 - Compare the performance both in training and outcomes of each algorithm
-- Pivot codes to work in the actual Overcooked 2 game
 
 ## Lead Contact Information
 
@@ -37,11 +36,6 @@ The aim is to implement various reinforcement learning algorithms using increasi
 | Paco Xiao | Member | paco.xiao@sjsu.edu | [@pacoxiao1](https://github.com/pacoxiao1) |
 | Gabriel Clarence  | Member | gabriel.clarence@sjsu.edu  | [@gclarence011 ](https://github.com/gclarence011) |
 | Dhareshwar sowmya rao | Member | dhareshwarsowmya.rao@sjsu.edu | [@dhareshwarsowmya](https://github.com/dhareshwarsowmya) |
-| Eugenio Pasos | Member | eugenio.pasos@sjsu.edu | [@eugeniopasos](https://github.com/eugeniopasos) |
-
-## Project Kanban Board
-
-**🔗 Public Board:** [View our Kanban Board (SETUP)]()
 
 ## Repository Structure
 
@@ -68,8 +62,8 @@ The aim is to implement various reinforcement learning algorithms using increasi
 
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:ai-ml-club-sjsu/project-fa25-overcooked-marl.git
-   cd project-fa25-overcooked-marl
+   git clone git@github.com:JRobbinsss18/Football-MARL.git
+   cd Football-MARL
    ```
 
 2. **Create virtual environment:**
@@ -100,7 +94,7 @@ The aim is to implement various reinforcement learning algorithms using increasi
 
 ## License
 
-Fill this out
+N/A
 
 ## Acknowledgments
 
@@ -108,7 +102,7 @@ Fill this out
 
 ---
 
-**Last Updated:** [09/27/2025]  
+**Last Updated:** [11/22/2025]  
 **Next Review:** [Unknown]
 
 ---
